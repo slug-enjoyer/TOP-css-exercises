@@ -1,6 +1,6 @@
 /* style.css */
 
-p {
+.odditems {
     background-color: lightpink;
     font-family: "Veranda","DejaVu Sans",sans-serif;
 }
@@ -12,6 +12,9 @@ p {
 
 #div2 {
     background-color: lightgreen;
-    font-size: 24px;
     font-weight: bold;
+}
+
+.specialfont {
+    font-size: 24px;
 }
