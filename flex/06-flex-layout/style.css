@@ -53,7 +53,7 @@ li{
 }
 a{
   text-decoration: none;
-  color:#737373;
+  color:#000000;
 
 }
 .left-links, .right-links{
@@ -64,4 +64,6 @@ a{
 .footer
 {
   margin-top:auto; 
+  background-color: #737373;
+  min-height: 30px;
 }
